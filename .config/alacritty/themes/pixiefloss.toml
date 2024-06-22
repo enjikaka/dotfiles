@@ -1,0 +1,31 @@
+[colors.primary]
+foreground = '#D1CAE8'
+background = '#241F33'
+
+[colors.cursor]
+cursor = '#D1CAE8'
+text = '#2F2942'
+
+[colors.selection]
+cursor = '#D1CAE8'
+text = '#2F2942'
+
+[colors.normal]
+black = '#2F2942'    # Black (Host)
+red = '#FF857F'    # Red (Syntax string)
+green = '#48B685'    # Green (Command)
+yellow = '#E6C000'    # Yellow (Command second)
+blue = '#AE81FF'    # Blue (Path)
+magenta = '#EF6155'    # Magenta (Syntax var)
+cyan = '#C2FFDF'    # Cyan (Prompt)
+white = '#F8F8F2'    # White
+
+[colors.bright]
+black = '#75507B'    # Bright Black
+red = '#F1568E'    # Bright Red (Command error)
+green = '#5ADBA2'    # Bright Green (Exec)
+yellow = '#D5A425'    # Bright Yellow
+blue = '#C5A3FF'    # Bright Blue (Folder)
+magenta = '#EF6155'    # Bright Magenta
+cyan = '#C2FFFF'    # Bright Cyan
+white = '#F8F8F0'    # Bright White
