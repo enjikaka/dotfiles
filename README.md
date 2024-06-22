@@ -10,4 +10,4 @@
 
 1. Git clone the directory to ~/.dotfiles: `git clone git@github.com:enjikaka/dotfiles.git ~/.dotfiles`
 2. cd into i: `cd ~/.dotfiles`
-3. set up symlinks with Stow: `stow .` to set up symlinks
+3. Run install script: `./install.sh`
